@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+pyttsx3
+Pillow
+langchain
+langchain-community
+sentence-transformers
+chromadb
+pypdf
